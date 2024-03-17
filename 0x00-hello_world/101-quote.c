@@ -10,7 +10,9 @@
 
 int main(void)
 {
-	const char *c = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+	char *c = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
 	size_t len = strlen(c);
-	write(1,c, len);
+
+	write(1, c, len);
+	return (1);
 }
