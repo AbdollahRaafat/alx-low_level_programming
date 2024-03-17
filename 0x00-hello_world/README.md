@@ -3,7 +3,7 @@
 These are the tasks of **C - Hello, World** project from **ALX** program.
 
 -[x] 0. Preprocessor
--[ ] 1. Compiler
+-[x] 1. Compiler
 -[ ] 2. Assembler
 -[ ] 3. Name
 -[ ] 4. Hello, puts
