@@ -15,4 +15,4 @@ These are the tasks of **C - Variables, if, else, while** project from **ALX** p
 -[x] 9. Patience, persistence and perspiration make an unbeatable combination for success
 -[x] 10. Inventing is a combination of brains and materials. The more brains you use, the less material you need
 -[x] 11. The success combination in business is: Do what you do better... and: do more of what you do...
--[ ] 12. Software is eating the World
+-[x] 12. Software is eating the World
