@@ -9,44 +9,28 @@
  */
 int main(void)
 {
-int a = '0';
-
-while (a <= '9')
-{
-	int b = '0';
-
-	while (b <= '9')
+	for (int i = 0 ; i < 99 ; i++)
 	{
-		int c = '0';
-
-		while (c <= '9')
+		for (int j = 1 ; j < 100 ; j++)
 		{
-			int d = '0';
+			if (i == j)
+				continue;
+			putchar(i / 10 + '0');
+			putchar(i % 10 + '0');
+			putchar(' ');
+			putchar(j / 10 + '0');
+			putchar(j % 10 + '0');
 
-			while (d <= '9')
+
+			if (i == 98 && j == 99)
+				continue;
+			else
 			{
-				if ((b < d && a <= c))
-				{
-					if ((!(a == '0' && b == '0' && c == '0' && d == '1')))
-					{
-						putchar(',');
-						putchar(' ');
-					}
-					putchar((char)a);
-					putchar((char)b);
-					putchar(' ');
-					putchar((char)c);
-					putchar((char)d);
-				}
-				d++;
+				putchar(',');
+				putchar(' ');
 			}
-			c++;
 		}
-		b++;
 	}
-	a++;
-}
-
 	putchar('\n');
 	return (0);
 }
