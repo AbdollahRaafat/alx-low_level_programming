@@ -9,9 +9,11 @@
  */
 int main(void)
 {
-	for (int i = 0 ; i < 99 ; i++)
+	int i, j;
+	
+	for (i = 0 ; i < 99 ; i++)
 	{
-		for (int j = 1 ; j < 100 ; j++)
+		for (j = 1 ; j < 100 ; j++)
 		{
 			if (i == j)
 				continue;
