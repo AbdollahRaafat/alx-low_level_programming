@@ -14,16 +14,17 @@ int main(void)
 	while (x <= '9')
 	{
 		int y = '0';
+
 		while (y <= '9')
 		{
 			if (!(x == y || x > y))
-			{	
+			{
 				if (!(x == '0' && y == '1'))
 				{
 					putchar(',');
 					putchar(' ');
 				}
-		
+
 				putchar((char)x);
 				putchar((char)y);
 			}
