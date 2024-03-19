@@ -13,7 +13,7 @@ These are the tasks of **C - Functions, nested loops** project from **ALX** prog
 - [x] 7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
 - [x] 8. I'm federal agent Jack Bauer, and today is the longest day of my life
 - [x] 9. Learn your times table
-- [ ] 10. a + b
+- [x] 10. a + b
 - [ ] 11. 98 Battery Street, the OG
 - [ ] 12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself
 - [ ] 13. Nature made the natural numbers; All else is the work of women
