@@ -14,4 +14,4 @@ These are the tasks of **C - More functions, more nested loops** project from **
 - [x] 9. Fizz-Buzz
 - [x] 10. Triangles
 - [x] 11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic
-- [ ] 12. Numbers have life; they're not just symbols on paper
+- [x] 12. Numbers have life; they're not just symbols on paper
