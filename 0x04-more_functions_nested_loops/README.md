@@ -6,8 +6,8 @@ These are the tasks of **C - More functions, more nested loops** project from **
 - [x] 1. isdigit
 - [x] 2. Collaboration is multiplication
 - [x] 3. The numbers speak for themselves
-- [ ] 4. I believe in numbers and signs
-- [ ] 5. Numbers constitute the only universal language
+- [x] 4. I believe in numbers and signs
+- [x] 5. Numbers constitute the only universal language
 - [ ] 6. The shortest distance between two points is a straight line
 - [ ] 7. I feel like I am diagonally parked in a parallel universe
 - [ ] 8. You are so much sunshine in every square inch
