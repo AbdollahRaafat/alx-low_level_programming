@@ -3,7 +3,7 @@
 These are the tasks of **C - More functions, more nested loops** project from **ALX** program.
 
 - [x] 0. isupper
-- [ ] 1. isdigit
+- [x] 1. isdigit
 - [ ] 2. Collaboration is multiplication
 - [ ] 3. The numbers speak for themselves
 - [ ] 4. I believe in numbers and signs
