@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_square - draw square for # symble
- * @size: size of the square
+ * print_triangle - draw triangle with # symble and whitespace
+ * @size: size of the tirangle
  * Return: void
  */
 
