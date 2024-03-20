@@ -5,7 +5,7 @@ These are the tasks of **C - More functions, more nested loops** project from **
 - [x] 0. isupper
 - [x] 1. isdigit
 - [x] 2. Collaboration is multiplication
-- [ ] 3. The numbers speak for themselves
+- [x] 3. The numbers speak for themselves
 - [ ] 4. I believe in numbers and signs
 - [ ] 5. Numbers constitute the only universal language
 - [ ] 6. The shortest distance between two points is a straight line
