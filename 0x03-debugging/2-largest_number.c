@@ -10,8 +10,15 @@
 
 int largest_number(int a, int b, int c)
 {
-	return (max( max(a, b), c));
+	return (max(max(a, b), c));
 }
+
+/**
+ * max - return the largest of 2 numbers
+ * @a: first int
+ * @b: second int
+ * Return: largest number
+ */
 
 int max(int a, int b)
 {
