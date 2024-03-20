@@ -5,7 +5,7 @@
  * Return: void
  */
 
-void mul(void)
+void print_numbers(void)
 {
 	int i;
 
