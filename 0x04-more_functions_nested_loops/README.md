@@ -8,7 +8,7 @@ These are the tasks of **C - More functions, more nested loops** project from **
 - [x] 3. The numbers speak for themselves
 - [x] 4. I believe in numbers and signs
 - [x] 5. Numbers constitute the only universal language
-- [ ] 6. The shortest distance between two points is a straight line
+- [x] 6. The shortest distance between two points is a straight line
 - [ ] 7. I feel like I am diagonally parked in a parallel universe
 - [ ] 8. You are so much sunshine in every square inch
 - [ ] 9. Fizz-Buzz
