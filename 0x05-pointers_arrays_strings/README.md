@@ -11,6 +11,6 @@ These are the tasks of **C - More functions, more nested loops** project from **
 - [x] 6. Half the lies they tell about me aren't true
 - [x] 7. Winning is only half of it. Having fun is the other half
 - [x] 8. Arrays are not pointers
-- [ ] 9. strcpy
+- [x] 9. strcpy
 - [ ] 10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
 - [ ] 11. Don't hate the hacker, hate the code
