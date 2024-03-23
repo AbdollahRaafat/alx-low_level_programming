@@ -11,15 +11,14 @@
 
 int _atoi(char *s)
 {
-	int i, j, neg = 0, pos = 0, x = 0, n = strlen(s);
+	int i, j, neg = 0, n = strlen(s);
+	unsigned int x = 0;
 
 
 	for (i = 0; i < n; i++)
 	{
 		if (s[i] == '-')
 			neg++;
-		else if (s[i] == '+')
-			pos++;
 		else if (s[i] >= '0' && s[i] <= '9')
 		{
 			x = (s[i] - '0');
@@ -37,5 +36,7 @@ int _atoi(char *s)
 		}
 	}
 
-	return (neg > pos ? -x : x);
+	neg = neg % 2 ? -1 : 1;
+
+	return (neg * x);
 }
