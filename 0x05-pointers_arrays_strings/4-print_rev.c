@@ -3,7 +3,7 @@
 
 /**
  * print_rev - print str in rev
- * @str: string passed
+ * @s: string passed
  * Return: void
  */
 
