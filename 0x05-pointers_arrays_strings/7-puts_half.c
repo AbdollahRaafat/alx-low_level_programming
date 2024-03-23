@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * puts2 - print evry other char of str
+ * puts_half - print half of str
  * @str: string passed
  * Return: void
  */
